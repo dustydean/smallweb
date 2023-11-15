@@ -10606,3 +10606,6 @@ https://ztpala.com/feed.xml
 https://zverok.space/feed.xml
 https://zwclose.github.io/feed.xml
 https://zwischenzugs.com/feed
+https://dustydean.com/feed
+https://andrewpwheeler.com/feed/
+https://andreabergia.com/index.xml
